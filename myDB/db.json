@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "fName": "Сиражудин",
+      "sName": "Гусейнов",
+      "tName": "ЫФВФЫВ",
+      "phone": "+8 (9679) 40-28-10",
+      "favorite": false,
+      "id": 1
+    },
+    {
+      "fName": "Абавыаыва",
+      "sName": "выа",
+      "tName": "ыва",
+      "phone": "123123",
+      "favorite": "",
+      "id": 2
+    },
+    {
+      "fName": "Абавыаыва",
+      "sName": "выа",
+      "tName": "ыва",
+      "phone": "123123",
+      "favorite": true,
+      "id": 3
+    }
+  ]
+}
